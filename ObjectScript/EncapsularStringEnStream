@@ -1,0 +1,5 @@
+//Se encapsula el mensaje en un contenedor permanente 
+set streamContainer = ##class(Ens.StreamContainer).%New()
+set stream = ##class(%GlobalCharacterStream).%New()
+set streamContainer.Stream = ##class(%GlobalCharacterStream).%New()
+do streamContainer.Stream.Write(MensEntrada)
