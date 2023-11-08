@@ -1,0 +1,10 @@
+{
+    "preguntas": [
+      {
+        "id": 1,
+        "pregunta": "Como encapsular un String en un Stream",
+        "respuesta": "https://github.com/aromoril/OTICodeMasterBot/blob/main/ObjectScript/EncapsularStringEnStream"
+      }
+    ]
+  }
+  
