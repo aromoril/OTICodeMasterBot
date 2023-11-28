@@ -1,5 +1,1 @@
-//Se encapsula el mensaje en un contenedor permanente 
-set streamContainer = ##class(Ens.StreamContainer).%New()
-set stream = ##class(%GlobalCharacterStream).%New()
-set streamContainer.Stream = ##class(%GlobalCharacterStream).%New()
-do streamContainer.Stream.Write(MensEntrada)
+gAAAAABlZgalL8u_Dh_dohzZUWNHW_gYOGyIpYIpdl8nAI6v1gxNLNkevnYB7-XGZ9hoH74Y2j02Aa085LlxQsJNr7LC-UhFoCUw8LNQtztwsO-Cz1kbH7u_fGEs-UHKYgtPt26J61Yo0of10OzvwWwdMT-Oi5luc1zbBxuJdNLZG7zLJK7ps6xIv0JnFT6RUn4Sd_KvGw088qjb_zvx72LgUXLBSJOdgt-5a3QPn_ZIWadAbk7wRqrpC-rIXs6Lr_y55S97O6N4DIMzUQI7mlBHFTgO9W59yd5t-GyaHAJ31uDFxSt1crFV1--FMUUM9RdFwoGKxGikhZSs5idxfn4ZjhK5KIfgIQtrmZnD_-pXbo9lUf1bxaR8Kgu3tu57peXwn6qTBhLEijTpYhhHL34dwir0EHRQkdxwEGj5njhWohIvHSXF1Bjax2uUBh6jeGgmZo2ltvLK
